@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>REGLAMENTO DE LA lEY DE REFORMA MAGISTERIAL</title>
+</head>
+<body>
+<UL>
+<a href="acceso a cargos dos.html"><li>Capítulo VI: Acceso a cargos</li>
+<a href="aspectos.html"><li>Capítulo VII: Aspectos comunes de los comités de evaluación</li>
